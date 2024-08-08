@@ -1,0 +1,12 @@
+{
+  "name": "dota_stats",
+  "version": "1.0.0",
+  "description": "Show data 2 statistic",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
